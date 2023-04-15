@@ -1,0 +1,1 @@
+Testing git if it is connected with remote repo or not
